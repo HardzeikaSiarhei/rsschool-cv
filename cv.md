@@ -12,7 +12,8 @@ sgordeiko1987@gmail.com
 
 
 ##Education
-2005 - 2010 Baranovichi State University, marketing
+2005 - 2010 Baranovichi State University
+*marketing*
 
 
 ##Professional experience
