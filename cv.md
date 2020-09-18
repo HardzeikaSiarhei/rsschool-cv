@@ -8,7 +8,7 @@ Able to learn new things
 **E-mail**
 sgordeiko1987@gmail.com
 **Telephone**
-+375297956389
++375 29 7956389
 
 
 ##Education
