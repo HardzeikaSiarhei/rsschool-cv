@@ -1,0 +1,17 @@
+.heading{
+  text-align: center;  
+}
+.myphoto{
+    margin: 0 0 0 40px;
+}
+.myname{
+    margin: 0 0 0 40px;
+}
+.sectname{
+    margin: 25px 0 0 40px;
+}
+.text{
+    margin: 0 0 0 40px;
+    line-height: 21px;
+}
+
